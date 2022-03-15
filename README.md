@@ -3,6 +3,10 @@
 ![Widget](https://cdn.jsdelivr.net/gh/baifan97/CangQiongLite/Widget.png)
 ### 苍穹纯净版，无多余内容，完全开源，请保留开源信息。
 
+蓝奏云链接
+~持续更新中
+https://wwi.lanzouw.com/b09b2hxyh
+密码:123456
 
 ## 功能
 - [x] 一键获取 `Cookie`
